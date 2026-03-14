@@ -1,4 +1,4 @@
-# Naruto Jutsu Hand Recognition 🥷
+# Naruto Jutsu Hand Recognition 
 
 A simple computer vision project that triggers Naruto-style jutsu effects using hand gestures and webcam tracking.
 
